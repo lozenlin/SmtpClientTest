@@ -1,2 +1,2 @@
-SmtpClientTest
+SmtpClientTest - MIT license
 ==============

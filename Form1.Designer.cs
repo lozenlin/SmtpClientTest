@@ -157,7 +157,7 @@
             this.grpAccount.Location = new System.Drawing.Point(14, 73);
             this.grpAccount.Name = "grpAccount";
             this.grpAccount.Size = new System.Drawing.Size(197, 82);
-            this.grpAccount.TabIndex = 5;
+            this.grpAccount.TabIndex = 6;
             this.grpAccount.TabStop = false;
             // 
             // txtPassword
@@ -196,7 +196,7 @@
             this.groupBox2.Location = new System.Drawing.Point(217, 12);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(260, 333);
-            this.groupBox2.TabIndex = 6;
+            this.groupBox2.TabIndex = 7;
             this.groupBox2.TabStop = false;
             // 
             // label10
@@ -295,7 +295,7 @@
             this.btnSend.Location = new System.Drawing.Point(14, 160);
             this.btnSend.Name = "btnSend";
             this.btnSend.Size = new System.Drawing.Size(197, 185);
-            this.btnSend.TabIndex = 7;
+            this.btnSend.TabIndex = 8;
             this.btnSend.Text = "寄送";
             this.btnSend.UseVisualStyleBackColor = true;
             this.btnSend.Click += new System.EventHandler(this.btnSend_Click);
@@ -336,7 +336,7 @@
             this.chkEnableSsl.Location = new System.Drawing.Point(104, 59);
             this.chkEnableSsl.Name = "chkEnableSsl";
             this.chkEnableSsl.Size = new System.Drawing.Size(70, 16);
-            this.chkEnableSsl.TabIndex = 8;
+            this.chkEnableSsl.TabIndex = 5;
             this.chkEnableSsl.Text = "啟用 SSL";
             this.chkEnableSsl.UseVisualStyleBackColor = true;
             // 

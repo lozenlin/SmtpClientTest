@@ -48,6 +48,7 @@ namespace SmtpClientTest
 				}
 
 				MailMsg = new MailMessage(txtFrom.Text, txtTo.Text, txtSubject.Text, txtBody.Text);
+                MailMsg.IsBodyHtml = chkIsBodyHtml.Checked; // 2020/01/22, lozenlin, add
 
                 //註記真正的寄件人
                 if (!string.IsNullOrEmpty(txtSender.Text.Trim()))
